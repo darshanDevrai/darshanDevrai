@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **something cool:)**
 
-- 📝 I some time write articles on [www.darshandevrai.dev](www.darshandevrai.dev)
+- 📝 I some times write articles on [www.darshandevrai.dev](www.darshandevrai.dev)
 
 - 💬 Ask me about **JS/TS, Node, Express, ClickHouse, Data Engineering etc**
 
