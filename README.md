@@ -5,6 +5,6 @@
 
 - 📝 I some times write articles on [www.darshandevrai.dev](www.darshandevrai.dev)
 
-- 💬 Ask me about **JS/TS, Node, Express, ClickHouse, Data Engineering etc**
+- 💬 Ask me about **Golang, JS/TS, Node, Express, ClickHouse, Data Engineering, Rust etc**
 
 - 📫 How to reach me **darshan.21devrai@gmail.com**
